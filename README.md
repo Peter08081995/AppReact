@@ -1,2 +1,0 @@
-# AppReact
-Aplicación react.
